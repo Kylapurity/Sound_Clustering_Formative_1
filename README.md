@@ -47,11 +47,12 @@ This project applies clustering techniques to unlabeled sound recordings using:
 * **K-Means** and **DBSCAN** for clustering
 * **Silhouette Score** and **Davies-Bouldin Index** for evaluating clustering quality
 * **K Value ** I Used k=3 and this was th result: I ended up picking 4 because I could be able to see more cluster and it had less noise. Where with 3 it had more noise an make the clusters not visible.
-     #### K-Means - Silhouette Score: 0.4868, Davies-Bouldin Index: 1.4485
-     #### DBSCAN - Silhouette Score: -0.0305, Davies-Bouldin Index: 1.8554
+
+      K-Means - Silhouette Score: 0.4868, Davies-Bouldin Index: 1.4485
+      DBSCAN - Silhouette Score: -0.0305, Davies-Bouldin Index: 1.8554
  ####  K = 4 
-      #### K-Means - Silhouette Score: 0.4868, Davies-Bouldin Index: 1.4485
-      #### DBSCAN - Silhouette Score: -0.0305, Davies-Bouldin Index: 1.8554
+       K-Means - Silhouette Score: 0.4868, Davies-Bouldin Index: 1.4485
+       DBSCAN - Silhouette Score: -0.0305, Davies-Bouldin Index: 1.8554
 ---
 
 ## Requirements

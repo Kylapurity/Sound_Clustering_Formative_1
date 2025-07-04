@@ -2,7 +2,7 @@
 # Sound Clustering Project
 
 This project explores the use of clustering techniques on unlabeled sound recordings to uncover hidden patterns in audio data. Using Mel-frequency cepstral coefficients (MFCCs) for feature extraction, and dimensionality reduction techniques like PCA and t-SNE, we apply clustering algorithms to group similar audio samples and evaluate the clustering performance.
-![image](https://github.com/user-attachments/assets/c2112491-72a3-4243-87f3-6e8464d1aeef)
+![image](https://github.com/user-attachments/assets/242b0d6a-b92a-47b4-9ab3-df4aa583e5ae)
 
 
 ---
@@ -50,8 +50,8 @@ This project applies clustering techniques to unlabeled sound recordings using:
      #### K-Means - Silhouette Score: 0.4868, Davies-Bouldin Index: 1.4485
      #### DBSCAN - Silhouette Score: -0.0305, Davies-Bouldin Index: 1.8554
   K = 4 
-      ####K-Means - Silhouette Score: 0.4868, Davies-Bouldin Index: 1.4485
-      DBSCAN - Silhouette Score: -0.0305, Davies-Bouldin Index: 1.8554
+      #### K-Means - Silhouette Score: 0.4868, Davies-Bouldin Index: 1.4485
+      #### DBSCAN - Silhouette Score: -0.0305, Davies-Bouldin Index: 1.8554
 ---
 
 ## Requirements
